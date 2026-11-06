@@ -1,0 +1,5 @@
+customer,recency,frequency,monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+Aman,1,3,14500,5,5,2,552,Loyal Customers
+Rahul,6,3,81000,4,5,5,455,Champions
+Neha,12,2,57400,3,2,4,324,Needs Attention
+Priya,19,2,56200,2,2,3,223,Lost Customers

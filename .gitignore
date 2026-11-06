@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated reports
+rfm_report.csv
+
+# Generated charts
+customer_segments.png
